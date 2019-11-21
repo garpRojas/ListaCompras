@@ -1,0 +1,31 @@
+{
+"list": [
+        {
+            "titulo":"Paños para la cosina", 
+            "notas":"notas", 
+            "precio":"$Precio", 
+            "lugar":"Lugar", 
+            "user":"Glenn", 
+            "date":"3 days ago", 
+            "comprado":true
+        },
+        {
+            "titulo":"Refri", 
+            "notas":"notas", 
+            "precio":"$Precio", 
+            "lugar":"Lugar", 
+            "user":"Faby", 
+            "date":"3 days ago", 
+            "comprado":false
+        },
+        {
+            "titulo":"Cuchillos", 
+            "notas":"notas", 
+            "precio":"$Precio", 
+            "lugar":"Lugar", 
+            "user":"Faby", 
+            "date":"3 days ago", 
+            "comprado":true
+        }
+    ]
+}
